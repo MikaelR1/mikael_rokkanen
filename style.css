@@ -10,8 +10,11 @@ border:solid red 1px;
 padding: 10px;
 width: 250px;
 opacity: 0,5;
-
 }
+main{
+  display: flex ;
+}
+
 
 h1{
 border-bottom: 2px solid red;
