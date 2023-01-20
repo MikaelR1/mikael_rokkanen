@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    background-color: aquamarine;
+}
+
+footer{
+    background-color: blueviolet;
+    color: azure;
+    height: 70px;
+    text-align: center;
+}
+
+.red{
+    background-color: brown;
+}
+
+.col-2{
+    background-color: blue;
+}
+
+.col-4{
+    background-color: beige;
+}
+
+.col-6{
+    background-color: aquamarine;
+}
